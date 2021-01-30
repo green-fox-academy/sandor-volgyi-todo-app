@@ -10,7 +10,7 @@ export abstract class MyFileHandler {
     console.log(this.fileName, this.fullPath);
   }
 
-  returnFullFilePath() {
+  private returnFullFilePath() {
     return __dirname + "/todofiles/" + this.fileName;
   }
 

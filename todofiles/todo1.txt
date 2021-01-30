@@ -1,6 +1,2 @@
-sffdsfsd
-sdfdsf
-dfdsfd
-dsfdsf
-sdfds
-dfsdfdssd
+<Flat DB of Sanyi's todo app>
+<TodoData>
