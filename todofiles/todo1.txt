@@ -1,2 +1,8 @@
 <Flat DB of Sanyi's todo app>
+Owner: Sanyi
+Date created: 2020.01.30. 12.20.
+Date updated: 2020.01.30. 12.54.
 <TodoData>
+{"priority":1,"todoWhat":"Walk the dog","isDone":false}
+{"priority":2,"todoWhat":"Buy milk","isDone":false}
+{"priority":3,"todoWhat":"Do homework","isDone":false}
